@@ -30,7 +30,6 @@ const aboutMe = {
  	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=github width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
@@ -43,9 +42,7 @@ const aboutMe = {
 - ⚡ Fun fact: Focused, learn, adventour, explorer, father, husband, human.
 
 
-<p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sagillaire&theme=tokyonight&show_icons=true" />
-
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagillaire&theme=tokyonight&show_icons=true" />
-
-</p>
+<div style="display: flex; margin: 0 auto; justify-content: space-around;">
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sagillaire&theme=tokyonight&show_icons=true" />
+        <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagillaire&theme=tokyonight&show_icons=true" />
+</div>
