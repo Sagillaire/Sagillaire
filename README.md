@@ -39,7 +39,7 @@ const aboutMe = {
 - 🔭 I’m currently working with: **Typescript**, **React**, **Node.js**, **NextJs**, **React-Native**, **NodeJs**, **mongoDB**.
 - 🌱 I believe in the power of continuous learning and collaboration. Always eager to explore emerging technologies and contribute to open-source projects.
 - 🔧 When I'm not coding, you'll find me playing some games online, because a well-rounded developer is a happy developer!
-- ⚡ Fun fact: Focused, learn, adventour, explorer, father, husband, human.
+- ⚡ Fun fact: Focused, learn, adventour, explorer, human.
 
 
 <div style="display: flex; margin: 0 auto; justify-content: space-around;">
